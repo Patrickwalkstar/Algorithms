@@ -1,0 +1,11 @@
+{
+  "man": {
+    "abe": ["cat", "bea", "ada"],
+    "bob": ["ada", "cat", "bea"],
+    "cal": ["ada", "bea", "cat"]
+  },
+  "woman": {
+  "ada": ["abe", "cal", "bob"],
+    "bea": ["bob", "abe", "cal"],
+    "cat": ["cal", "abe", "bob"]
+} }
